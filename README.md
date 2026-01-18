@@ -1,4 +1,4 @@
-1. Install the Firebase Data Connect Extension
+## Install the Firebase Data Connect Extension
 
 Run this PowerShell command (in the same folder as your project):
 
